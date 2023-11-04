@@ -6,10 +6,13 @@
    
    Пистолеты:
    https://public.roboflow.com/object-detection/pistols
-   Смешной датасет:
+   
+   Есть сцены ограблений, но есть и мемы, и просто оружие со стоков:
    https://universe.roboflow.com/abm/gun-violent-detection
+   
    51к изображений:
    https://paperswithcode.com/dataset/gun-detection-dataset
+   
    9к изображений, есть в коридоре
    https://universe.roboflow.com/gun-detection-1lttj/gun-detection-1fbbu
 
