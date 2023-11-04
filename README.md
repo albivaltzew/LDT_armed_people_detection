@@ -8,6 +8,7 @@
    https://public.roboflow.com/object-detection/pistols
    
    Есть сцены ограблений, но есть и мемы, и просто оружие со стоков:
+   
    https://universe.roboflow.com/abm/gun-violent-detection
    
    51к изображений:
@@ -16,8 +17,12 @@
    9к изображений, есть в коридоре
    https://universe.roboflow.com/gun-detection-1lttj/gun-detection-1fbbu
 
-   YOLOv5 формат с классами ("пистолет", "смартфон", "нож", "кошелек", "билет", "карта")
+   3.5к YOLOv5 формат с классами ("пистолет", "смартфон", "нож", "кошелек", "билет", "карта")
    https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects
+   (а тут все датасеты на поиск оружия)
+
+   5к YouTube-GDD - Китайы собрали датасет по видео с ютуба. Есть класс "person" и "gun" - есть разделение для YOLOv5
+   https://github.com/UCAS-GYX/YouTube-GDD
 
 
 Полезные ссылки/заметки по CV части:
