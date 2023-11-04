@@ -8,7 +8,6 @@
    https://public.roboflow.com/object-detection/pistols
    
    Есть сцены ограблений, но есть и мемы, и просто оружие со стоков:
-   
    https://universe.roboflow.com/abm/gun-violent-detection
    
    51к изображений:
