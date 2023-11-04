@@ -16,6 +16,9 @@
    9к изображений, есть в коридоре
    https://universe.roboflow.com/gun-detection-1lttj/gun-detection-1fbbu
 
+   YOLOv5 формат с классами ("пистолет", "смартфон", "нож", "кошелек", "билет", "карта")
+   https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects
+
 
 Полезные ссылки/заметки по CV части:
 1. https://medium.com/mlearning-ai/computer-vision-with-unreal-engine-generate-rich-object-detection-data-64c613e0121f
