@@ -20,3 +20,4 @@
 > Полезные ссылки/заметки по CV части:
 1. Собираем датасет через Unreal Engine 4 [medium](https://medium.com/mlearning-ai/computer-vision-with-unreal-engine-generate-rich-object-detection-data-64c613e0121f)
 2. [unrealCV](http://docs.unrealcv.org/en/master/index.html)
+3. YOLOv8 OpenVINO Quantization [source](https://docs.openvino.ai/2023.1/notebooks/230-yolov8-optimization-with-output.html#next-steps)
