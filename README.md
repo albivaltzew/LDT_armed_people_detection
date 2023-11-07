@@ -16,6 +16,8 @@
 
 Можно учесть, что проверки на скор не будет, поэтому точность должна быть субъективно приемлемой, то есть YOLOv8n - наш вариант. 
 
+> Pretrained
+   Натренированные модели с mAP до 30 - пистолеты [GitHub](https://github.com/AlaaSenjab/Real-Time-Weapon-Detection)
 
 > Полезные ссылки/заметки по CV части:
 1. Собираем датасет через Unreal Engine 4 [medium](https://medium.com/mlearning-ai/computer-vision-with-unreal-engine-generate-rich-object-detection-data-64c613e0121f)
