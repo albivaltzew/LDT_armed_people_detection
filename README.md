@@ -13,6 +13,7 @@
    - **3.5к YOLOv5 формат с классами ("пистолет", "смартфон", "нож", "кошелек", "билет", "карта")** [GitHub](https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects) - Предлагаю начать с этого, так как много классов, но достаточно изображений. 
    - (а тут несколько датасетов на поиск оружия, один из которых предыдущий) [GitHub](https://github.com/ari-dasci/OD-WeaponDetection)
    - **5к - Китайцы собрали датасет по видео с ютуба. Есть класс "person" и "gun"** - есть разделение для YOLOv5 [YouTube-GDD](https://github.com/UCAS-GYX/YouTube-GDD) - Потом интересно попробовать это, так как есть класс "Человек"
+   - Челиксы в коридоре имитируют вооруженную деятельность [GitHub](https://github.com/Deepknowledge-US/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset)
 
 Можно учесть, что проверки на скор не будет, поэтому точность должна быть субъективно приемлемой, то есть YOLOv8n - наш вариант. 
 
